@@ -1,0 +1,29 @@
+h1 {
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+a {
+  color: aquamarine;
+  font-size: 16px;
+}
+#welcoming {
+  background-color: black;
+  text-align: center
+}
+h2 {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+}
+.explanation {
+  font-family: verdana;
+  font-size: 21px;
+  color: gray;
+}
+#welcoming,.end {
+  text-align: right;
+  color: gray
+}
